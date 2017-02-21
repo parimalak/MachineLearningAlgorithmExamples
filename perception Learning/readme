@@ -1,1 +1,5 @@
+This is Homework Problem given by Professor Dr.Kevin Xu in the course Machine Learning.
 
+Tried to fit both a Perceptron and linear regression model to the Pima Indians data set. 
+
+Used a simple 2-fold cross validation by first selecting even rows of the data for training and odd rows for testing then vice versa.
